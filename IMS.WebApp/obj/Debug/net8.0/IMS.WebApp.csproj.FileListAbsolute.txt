@@ -31,3 +31,45 @@ C:\Sviluppo\GsoftConsulting\IMS\IMS.WebApp\obj\Debug\net8.0\refint\IMS.WebApp.dl
 C:\Sviluppo\GsoftConsulting\IMS\IMS.WebApp\obj\Debug\net8.0\IMS.WebApp.pdb
 C:\Sviluppo\GsoftConsulting\IMS\IMS.WebApp\obj\Debug\net8.0\IMS.WebApp.genruntimeconfig.cache
 C:\Sviluppo\GsoftConsulting\IMS\IMS.WebApp\obj\Debug\net8.0\ref\IMS.WebApp.dll
+C:\File Simone\Sviluppo\GsoftConsulting\IMS\IMS.WebApp\bin\Debug\net8.0\appsettings.Development.json
+C:\File Simone\Sviluppo\GsoftConsulting\IMS\IMS.WebApp\bin\Debug\net8.0\appsettings.json
+C:\File Simone\Sviluppo\GsoftConsulting\IMS\IMS.WebApp\bin\Debug\net8.0\IMS.WebApp.staticwebassets.runtime.json
+C:\File Simone\Sviluppo\GsoftConsulting\IMS\IMS.WebApp\bin\Debug\net8.0\IMS.WebApp.staticwebassets.endpoints.json
+C:\File Simone\Sviluppo\GsoftConsulting\IMS\IMS.WebApp\bin\Debug\net8.0\IMS.WebApp.exe
+C:\File Simone\Sviluppo\GsoftConsulting\IMS\IMS.WebApp\bin\Debug\net8.0\IMS.WebApp.deps.json
+C:\File Simone\Sviluppo\GsoftConsulting\IMS\IMS.WebApp\bin\Debug\net8.0\IMS.WebApp.runtimeconfig.json
+C:\File Simone\Sviluppo\GsoftConsulting\IMS\IMS.WebApp\bin\Debug\net8.0\IMS.WebApp.dll
+C:\File Simone\Sviluppo\GsoftConsulting\IMS\IMS.WebApp\bin\Debug\net8.0\IMS.WebApp.pdb
+C:\File Simone\Sviluppo\GsoftConsulting\IMS\IMS.WebApp\bin\Debug\net8.0\IMS.CoreBusiness.dll
+C:\File Simone\Sviluppo\GsoftConsulting\IMS\IMS.WebApp\bin\Debug\net8.0\IMS.Plugins.InMemory.dll
+C:\File Simone\Sviluppo\GsoftConsulting\IMS\IMS.WebApp\bin\Debug\net8.0\IMS.UseCases.dll
+C:\File Simone\Sviluppo\GsoftConsulting\IMS\IMS.WebApp\bin\Debug\net8.0\IMS.CoreBusiness.pdb
+C:\File Simone\Sviluppo\GsoftConsulting\IMS\IMS.WebApp\bin\Debug\net8.0\IMS.Plugins.InMemory.pdb
+C:\File Simone\Sviluppo\GsoftConsulting\IMS\IMS.WebApp\bin\Debug\net8.0\IMS.UseCases.pdb
+C:\File Simone\Sviluppo\GsoftConsulting\IMS\IMS.WebApp\obj\Debug\net8.0\IMS.WebApp.csproj.AssemblyReference.cache
+C:\File Simone\Sviluppo\GsoftConsulting\IMS\IMS.WebApp\obj\Debug\net8.0\IMS.WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\File Simone\Sviluppo\GsoftConsulting\IMS\IMS.WebApp\obj\Debug\net8.0\IMS.WebApp.AssemblyInfoInputs.cache
+C:\File Simone\Sviluppo\GsoftConsulting\IMS\IMS.WebApp\obj\Debug\net8.0\IMS.WebApp.AssemblyInfo.cs
+C:\File Simone\Sviluppo\GsoftConsulting\IMS\IMS.WebApp\obj\Debug\net8.0\IMS.WebApp.csproj.CoreCompileInputs.cache
+C:\File Simone\Sviluppo\GsoftConsulting\IMS\IMS.WebApp\obj\Debug\net8.0\IMS.WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\File Simone\Sviluppo\GsoftConsulting\IMS\IMS.WebApp\obj\Debug\net8.0\IMS.WebApp.sourcelink.json
+C:\File Simone\Sviluppo\GsoftConsulting\IMS\IMS.WebApp\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\File Simone\Sviluppo\GsoftConsulting\IMS\IMS.WebApp\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\File Simone\Sviluppo\GsoftConsulting\IMS\IMS.WebApp\obj\Debug\net8.0\scopedcss\bundle\IMS.WebApp.styles.css
+C:\File Simone\Sviluppo\GsoftConsulting\IMS\IMS.WebApp\obj\Debug\net8.0\scopedcss\projectbundle\IMS.WebApp.bundle.scp.css
+C:\File Simone\Sviluppo\GsoftConsulting\IMS\IMS.WebApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\File Simone\Sviluppo\GsoftConsulting\IMS\IMS.WebApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\File Simone\Sviluppo\GsoftConsulting\IMS\IMS.WebApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\File Simone\Sviluppo\GsoftConsulting\IMS\IMS.WebApp\obj\Debug\net8.0\staticwebassets\msbuild.IMS.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\File Simone\Sviluppo\GsoftConsulting\IMS\IMS.WebApp\obj\Debug\net8.0\staticwebassets\msbuild.IMS.WebApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\File Simone\Sviluppo\GsoftConsulting\IMS\IMS.WebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.IMS.WebApp.props
+C:\File Simone\Sviluppo\GsoftConsulting\IMS\IMS.WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IMS.WebApp.props
+C:\File Simone\Sviluppo\GsoftConsulting\IMS\IMS.WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IMS.WebApp.props
+C:\File Simone\Sviluppo\GsoftConsulting\IMS\IMS.WebApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\File Simone\Sviluppo\GsoftConsulting\IMS\IMS.WebApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\File Simone\Sviluppo\GsoftConsulting\IMS\IMS.WebApp\obj\Debug\net8.0\IMS.WebApp.csproj.Up2Date
+C:\File Simone\Sviluppo\GsoftConsulting\IMS\IMS.WebApp\obj\Debug\net8.0\IMS.WebApp.dll
+C:\File Simone\Sviluppo\GsoftConsulting\IMS\IMS.WebApp\obj\Debug\net8.0\refint\IMS.WebApp.dll
+C:\File Simone\Sviluppo\GsoftConsulting\IMS\IMS.WebApp\obj\Debug\net8.0\IMS.WebApp.pdb
+C:\File Simone\Sviluppo\GsoftConsulting\IMS\IMS.WebApp\obj\Debug\net8.0\IMS.WebApp.genruntimeconfig.cache
+C:\File Simone\Sviluppo\GsoftConsulting\IMS\IMS.WebApp\obj\Debug\net8.0\ref\IMS.WebApp.dll

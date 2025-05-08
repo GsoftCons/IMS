@@ -65,23 +65,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\gabol\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Simone\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Sviluppo\\GsoftConsulting\\IMS\\IMS.WebApp\\IMS.WebApp.csproj",
+      "projectUniqueName": "C:\\File Simone\\Sviluppo\\GsoftConsulting\\IMS\\IMS.WebApp\\IMS.WebApp.csproj",
       "projectName": "IMS.WebApp",
-      "projectPath": "C:\\Sviluppo\\GsoftConsulting\\IMS\\IMS.WebApp\\IMS.WebApp.csproj",
-      "packagesPath": "C:\\Users\\gabol\\.nuget\\packages\\",
-      "outputPath": "C:\\Sviluppo\\GsoftConsulting\\IMS\\IMS.WebApp\\obj\\",
+      "projectPath": "C:\\File Simone\\Sviluppo\\GsoftConsulting\\IMS\\IMS.WebApp\\IMS.WebApp.csproj",
+      "packagesPath": "C:\\Users\\Simone\\.nuget\\packages\\",
+      "outputPath": "C:\\File Simone\\Sviluppo\\GsoftConsulting\\IMS\\IMS.WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\gabol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Simone\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -96,14 +98,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Sviluppo\\GsoftConsulting\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj": {
-              "projectPath": "C:\\Sviluppo\\GsoftConsulting\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj"
+            "C:\\File Simone\\Sviluppo\\GsoftConsulting\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj": {
+              "projectPath": "C:\\File Simone\\Sviluppo\\GsoftConsulting\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj"
             },
-            "C:\\Sviluppo\\GsoftConsulting\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj": {
-              "projectPath": "C:\\Sviluppo\\GsoftConsulting\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj"
+            "C:\\File Simone\\Sviluppo\\GsoftConsulting\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj": {
+              "projectPath": "C:\\File Simone\\Sviluppo\\GsoftConsulting\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj"
             },
-            "C:\\Sviluppo\\GsoftConsulting\\IMS\\IMS.UseCases\\IMS.UseCases.csproj": {
-              "projectPath": "C:\\Sviluppo\\GsoftConsulting\\IMS\\IMS.UseCases\\IMS.UseCases.csproj"
+            "C:\\File Simone\\Sviluppo\\GsoftConsulting\\IMS\\IMS.UseCases\\IMS.UseCases.csproj": {
+              "projectPath": "C:\\File Simone\\Sviluppo\\GsoftConsulting\\IMS\\IMS.UseCases\\IMS.UseCases.csproj"
             }
           }
         }
