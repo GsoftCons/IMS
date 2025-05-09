@@ -1,66 +1,78 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\File Simone\\Sviluppo\\GsoftConsulting\\IMS\\",
+  "WorkspaceRootPath": "C:\\Sviluppo\\GsoftConsulting\\IMS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E37CCBC9-5DD6-40CF-8210-8599132A9071}|IMS.WebApp\\IMS.WebApp.csproj|c:\\file simone\\sviluppo\\gsoftconsulting\\ims\\ims.webapp\\components\\control\\inventorylistitemcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E37CCBC9-5DD6-40CF-8210-8599132A9071}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\components\\control\\inventorylistitemcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E37CCBC9-5DD6-40CF-8210-8599132A9071}|IMS.WebApp\\IMS.WebApp.csproj|c:\\sviluppo\\gsoftconsulting\\ims\\ims.webapp\\components\\pages\\inventories\\addinventory.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E37CCBC9-5DD6-40CF-8210-8599132A9071}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\components\\pages\\inventories\\addinventory.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E37CCBC9-5DD6-40CF-8210-8599132A9071}|IMS.WebApp\\IMS.WebApp.csproj|c:\\file simone\\sviluppo\\gsoftconsulting\\ims\\ims.webapp\\components\\control\\inventorylistcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E37CCBC9-5DD6-40CF-8210-8599132A9071}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\components\\control\\inventorylistcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E37CCBC9-5DD6-40CF-8210-8599132A9071}|IMS.WebApp\\IMS.WebApp.csproj|c:\\file simone\\sviluppo\\gsoftconsulting\\ims\\ims.webapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E37CCBC9-5DD6-40CF-8210-8599132A9071}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E37CCBC9-5DD6-40CF-8210-8599132A9071}|IMS.WebApp\\IMS.WebApp.csproj|c:\\file simone\\sviluppo\\gsoftconsulting\\ims\\ims.webapp\\components\\pages\\inventories\\inventorylist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E37CCBC9-5DD6-40CF-8210-8599132A9071}|IMS.WebApp\\IMS.WebApp.csproj|c:\\sviluppo\\gsoftconsulting\\ims\\ims.webapp\\components\\pages\\inventories\\inventorylist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E37CCBC9-5DD6-40CF-8210-8599132A9071}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\components\\pages\\inventories\\inventorylist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E37CCBC9-5DD6-40CF-8210-8599132A9071}|IMS.WebApp\\IMS.WebApp.csproj|c:\\file simone\\sviluppo\\gsoftconsulting\\ims\\ims.webapp\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E37CCBC9-5DD6-40CF-8210-8599132A9071}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E37CCBC9-5DD6-40CF-8210-8599132A9071}|IMS.WebApp\\IMS.WebApp.csproj|c:\\sviluppo\\gsoftconsulting\\ims\\ims.webapp\\components\\control\\inventorylistcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E37CCBC9-5DD6-40CF-8210-8599132A9071}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\components\\control\\inventorylistcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E37CCBC9-5DD6-40CF-8210-8599132A9071}|IMS.WebApp\\IMS.WebApp.csproj|c:\\file simone\\sviluppo\\gsoftconsulting\\ims\\ims.webapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E37CCBC9-5DD6-40CF-8210-8599132A9071}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E37CCBC9-5DD6-40CF-8210-8599132A9071}|IMS.WebApp\\IMS.WebApp.csproj|c:\\sviluppo\\gsoftconsulting\\ims\\ims.webapp\\components\\control\\inventorylistitemcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E37CCBC9-5DD6-40CF-8210-8599132A9071}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\components\\control\\inventorylistitemcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E37CCBC9-5DD6-40CF-8210-8599132A9071}|IMS.WebApp\\IMS.WebApp.csproj|c:\\file simone\\sviluppo\\gsoftconsulting\\ims\\ims.webapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E37CCBC9-5DD6-40CF-8210-8599132A9071}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A19EEF9B-1378-4083-84BA-6D86C27B25D6}|IMS.UseCases\\IMS.UseCases.csproj|c:\\sviluppo\\gsoftconsulting\\ims\\ims.usecases\\inventories\\addinventoryusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19EEF9B-1378-4083-84BA-6D86C27B25D6}|IMS.UseCases\\IMS.UseCases.csproj|solutionrelative:ims.usecases\\inventories\\addinventoryusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C1CA3CC-230A-43E5-8DD2-C135379C37A2}|IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj|c:\\file simone\\sviluppo\\gsoftconsulting\\ims\\ims.plugins\\ims.plugins.inmemory\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C1CA3CC-230A-43E5-8DD2-C135379C37A2}|IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj|solutionrelative:ims.plugins\\ims.plugins.inmemory\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A19EEF9B-1378-4083-84BA-6D86C27B25D6}|IMS.UseCases\\IMS.UseCases.csproj|c:\\file simone\\sviluppo\\gsoftconsulting\\ims\\ims.usecases\\inventories\\viewinventoriesbyusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A19EEF9B-1378-4083-84BA-6D86C27B25D6}|IMS.UseCases\\IMS.UseCases.csproj|solutionrelative:ims.usecases\\inventories\\viewinventoriesbyusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A19EEF9B-1378-4083-84BA-6D86C27B25D6}|IMS.UseCases\\IMS.UseCases.csproj|c:\\file simone\\sviluppo\\gsoftconsulting\\ims\\ims.usecases\\plugininterfaces\\iinventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A19EEF9B-1378-4083-84BA-6D86C27B25D6}|IMS.UseCases\\IMS.UseCases.csproj|solutionrelative:ims.usecases\\plugininterfaces\\iinventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A19EEF9B-1378-4083-84BA-6D86C27B25D6}|IMS.UseCases\\IMS.UseCases.csproj|c:\\file simone\\sviluppo\\gsoftconsulting\\ims\\ims.usecases\\inventories\\interfaces\\iviewinventoriesbyusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A19EEF9B-1378-4083-84BA-6D86C27B25D6}|IMS.UseCases\\IMS.UseCases.csproj|solutionrelative:ims.usecases\\inventories\\interfaces\\iviewinventoriesbyusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E37CCBC9-5DD6-40CF-8210-8599132A9071}|IMS.WebApp\\IMS.WebApp.csproj|c:\\file simone\\sviluppo\\gsoftconsulting\\ims\\ims.webapp\\ims.webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E37CCBC9-5DD6-40CF-8210-8599132A9071}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\ims.webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E37CCBC9-5DD6-40CF-8210-8599132A9071}|IMS.WebApp\\IMS.WebApp.csproj|c:\\file simone\\sviluppo\\gsoftconsulting\\ims\\ims.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E37CCBC9-5DD6-40CF-8210-8599132A9071}|IMS.WebApp\\IMS.WebApp.csproj|c:\\sviluppo\\gsoftconsulting\\ims\\ims.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E37CCBC9-5DD6-40CF-8210-8599132A9071}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A67E9211-221F-4DCA-A253-3B9B36E64CDE}|IMS.CoreBusiness\\IMS.CoreBusiness.csproj|c:\\file simone\\sviluppo\\gsoftconsulting\\ims\\ims.corebusiness\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3C1CA3CC-230A-43E5-8DD2-C135379C37A2}|IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj|c:\\sviluppo\\gsoftconsulting\\ims\\ims.plugins\\ims.plugins.inmemory\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1CA3CC-230A-43E5-8DD2-C135379C37A2}|IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj|solutionrelative:ims.plugins\\ims.plugins.inmemory\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19EEF9B-1378-4083-84BA-6D86C27B25D6}|IMS.UseCases\\IMS.UseCases.csproj|c:\\sviluppo\\gsoftconsulting\\ims\\ims.usecases\\inventories\\interfaces\\iaddinventoryusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19EEF9B-1378-4083-84BA-6D86C27B25D6}|IMS.UseCases\\IMS.UseCases.csproj|solutionrelative:ims.usecases\\inventories\\interfaces\\iaddinventoryusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19EEF9B-1378-4083-84BA-6D86C27B25D6}|IMS.UseCases\\IMS.UseCases.csproj|c:\\sviluppo\\gsoftconsulting\\ims\\ims.usecases\\plugininterfaces\\iinventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19EEF9B-1378-4083-84BA-6D86C27B25D6}|IMS.UseCases\\IMS.UseCases.csproj|solutionrelative:ims.usecases\\plugininterfaces\\iinventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19EEF9B-1378-4083-84BA-6D86C27B25D6}|IMS.UseCases\\IMS.UseCases.csproj|c:\\sviluppo\\gsoftconsulting\\ims\\ims.usecases\\ims.usecases.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A19EEF9B-1378-4083-84BA-6D86C27B25D6}|IMS.UseCases\\IMS.UseCases.csproj|solutionrelative:ims.usecases\\ims.usecases.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19EEF9B-1378-4083-84BA-6D86C27B25D6}|IMS.UseCases\\IMS.UseCases.csproj|c:\\sviluppo\\gsoftconsulting\\ims\\ims.usecases\\inventories\\viewinventoriesbyusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19EEF9B-1378-4083-84BA-6D86C27B25D6}|IMS.UseCases\\IMS.UseCases.csproj|solutionrelative:ims.usecases\\inventories\\viewinventoriesbyusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A67E9211-221F-4DCA-A253-3B9B36E64CDE}|IMS.CoreBusiness\\IMS.CoreBusiness.csproj|c:\\sviluppo\\gsoftconsulting\\ims\\ims.corebusiness\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A67E9211-221F-4DCA-A253-3B9B36E64CDE}|IMS.CoreBusiness\\IMS.CoreBusiness.csproj|solutionrelative:ims.corebusiness\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A19EEF9B-1378-4083-84BA-6D86C27B25D6}|IMS.UseCases\\IMS.UseCases.csproj|c:\\file simone\\sviluppo\\gsoftconsulting\\ims\\ims.usecases\\ims.usecases.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A19EEF9B-1378-4083-84BA-6D86C27B25D6}|IMS.UseCases\\IMS.UseCases.csproj|solutionrelative:ims.usecases\\ims.usecases.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{E37CCBC9-5DD6-40CF-8210-8599132A9071}|IMS.WebApp\\IMS.WebApp.csproj|c:\\sviluppo\\gsoftconsulting\\ims\\ims.webapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E37CCBC9-5DD6-40CF-8210-8599132A9071}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E37CCBC9-5DD6-40CF-8210-8599132A9071}|IMS.WebApp\\IMS.WebApp.csproj|c:\\sviluppo\\gsoftconsulting\\ims\\ims.webapp\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E37CCBC9-5DD6-40CF-8210-8599132A9071}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E37CCBC9-5DD6-40CF-8210-8599132A9071}|IMS.WebApp\\IMS.WebApp.csproj|c:\\sviluppo\\gsoftconsulting\\ims\\ims.webapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E37CCBC9-5DD6-40CF-8210-8599132A9071}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E37CCBC9-5DD6-40CF-8210-8599132A9071}|IMS.WebApp\\IMS.WebApp.csproj|c:\\sviluppo\\gsoftconsulting\\ims\\ims.webapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E37CCBC9-5DD6-40CF-8210-8599132A9071}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19EEF9B-1378-4083-84BA-6D86C27B25D6}|IMS.UseCases\\IMS.UseCases.csproj|c:\\sviluppo\\gsoftconsulting\\ims\\ims.usecases\\inventories\\interfaces\\iviewinventoriesbyusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19EEF9B-1378-4083-84BA-6D86C27B25D6}|IMS.UseCases\\IMS.UseCases.csproj|solutionrelative:ims.usecases\\inventories\\interfaces\\iviewinventoriesbyusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E37CCBC9-5DD6-40CF-8210-8599132A9071}|IMS.WebApp\\IMS.WebApp.csproj|c:\\sviluppo\\gsoftconsulting\\ims\\ims.webapp\\ims.webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E37CCBC9-5DD6-40CF-8210-8599132A9071}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\ims.webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -75,10 +87,87 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AddInventory.razor",
+              "DocumentMoniker": "C:\\Sviluppo\\GsoftConsulting\\IMS\\IMS.WebApp\\Components\\Pages\\Inventories\\AddInventory.razor",
+              "RelativeDocumentMoniker": "IMS.WebApp\\Components\\Pages\\Inventories\\AddInventory.razor",
+              "ToolTip": "C:\\Sviluppo\\GsoftConsulting\\IMS\\IMS.WebApp\\Components\\Pages\\Inventories\\AddInventory.razor",
+              "RelativeToolTip": "IMS.WebApp\\Components\\Pages\\Inventories\\AddInventory.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T11:04:41.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAddInventoryUseCase.cs",
+              "DocumentMoniker": "C:\\Sviluppo\\GsoftConsulting\\IMS\\IMS.UseCases\\Inventories\\Interfaces\\IAddInventoryUseCase.cs",
+              "RelativeDocumentMoniker": "IMS.UseCases\\Inventories\\Interfaces\\IAddInventoryUseCase.cs",
+              "ToolTip": "C:\\Sviluppo\\GsoftConsulting\\IMS\\IMS.UseCases\\Inventories\\Interfaces\\IAddInventoryUseCase.cs",
+              "RelativeToolTip": "IMS.UseCases\\Inventories\\Interfaces\\IAddInventoryUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T10:57:14.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddInventoryUseCase.cs",
+              "DocumentMoniker": "C:\\Sviluppo\\GsoftConsulting\\IMS\\IMS.UseCases\\Inventories\\AddInventoryUseCase.cs",
+              "RelativeDocumentMoniker": "IMS.UseCases\\Inventories\\AddInventoryUseCase.cs",
+              "ToolTip": "C:\\Sviluppo\\GsoftConsulting\\IMS\\IMS.UseCases\\Inventories\\AddInventoryUseCase.cs",
+              "RelativeToolTip": "IMS.UseCases\\Inventories\\AddInventoryUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T08:35:54.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InventoryRepository.cs",
+              "DocumentMoniker": "C:\\Sviluppo\\GsoftConsulting\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\InventoryRepository.cs",
+              "RelativeDocumentMoniker": "IMS.Plugins\\IMS.Plugins.InMemory\\InventoryRepository.cs",
+              "ToolTip": "C:\\Sviluppo\\GsoftConsulting\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\InventoryRepository.cs",
+              "RelativeToolTip": "IMS.Plugins\\IMS.Plugins.InMemory\\InventoryRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswB8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T16:40:37.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IMS.UseCases.csproj",
+              "DocumentMoniker": "C:\\Sviluppo\\GsoftConsulting\\IMS\\IMS.UseCases\\IMS.UseCases.csproj",
+              "RelativeDocumentMoniker": "IMS.UseCases\\IMS.UseCases.csproj",
+              "ToolTip": "C:\\Sviluppo\\GsoftConsulting\\IMS\\IMS.UseCases\\IMS.UseCases.csproj",
+              "RelativeToolTip": "IMS.UseCases\\IMS.UseCases.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-06T16:26:29.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Sviluppo\\GsoftConsulting\\IMS\\IMS.WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "IMS.WebApp\\Program.cs",
+              "ToolTip": "C:\\Sviluppo\\GsoftConsulting\\IMS\\IMS.WebApp\\Program.cs",
+              "RelativeToolTip": "IMS.WebApp\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T16:52:11.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "InventoryListItemComponent.razor",
-              "DocumentMoniker": "C:\\File Simone\\Sviluppo\\GsoftConsulting\\IMS\\IMS.WebApp\\Components\\Control\\InventoryListItemComponent.razor",
+              "DocumentMoniker": "C:\\Sviluppo\\GsoftConsulting\\IMS\\IMS.WebApp\\Components\\Control\\InventoryListItemComponent.razor",
               "RelativeDocumentMoniker": "IMS.WebApp\\Components\\Control\\InventoryListItemComponent.razor",
-              "ToolTip": "C:\\File Simone\\Sviluppo\\GsoftConsulting\\IMS\\IMS.WebApp\\Components\\Control\\InventoryListItemComponent.razor",
+              "ToolTip": "C:\\Sviluppo\\GsoftConsulting\\IMS\\IMS.WebApp\\Components\\Control\\InventoryListItemComponent.razor",
               "RelativeToolTip": "IMS.WebApp\\Components\\Control\\InventoryListItemComponent.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -87,166 +176,49 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "InventoryListComponent.razor",
-              "DocumentMoniker": "C:\\File Simone\\Sviluppo\\GsoftConsulting\\IMS\\IMS.WebApp\\Components\\Control\\InventoryListComponent.razor",
+              "DocumentMoniker": "C:\\Sviluppo\\GsoftConsulting\\IMS\\IMS.WebApp\\Components\\Control\\InventoryListComponent.razor",
               "RelativeDocumentMoniker": "IMS.WebApp\\Components\\Control\\InventoryListComponent.razor",
-              "ToolTip": "C:\\File Simone\\Sviluppo\\GsoftConsulting\\IMS\\IMS.WebApp\\Components\\Control\\InventoryListComponent.razor",
+              "ToolTip": "C:\\Sviluppo\\GsoftConsulting\\IMS\\IMS.WebApp\\Components\\Control\\InventoryListComponent.razor",
               "RelativeToolTip": "IMS.WebApp\\Components\\Control\\InventoryListComponent.razor",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-08T14:17:35.049Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\File Simone\\Sviluppo\\GsoftConsulting\\IMS\\IMS.WebApp\\Components\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "IMS.WebApp\\Components\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\File Simone\\Sviluppo\\GsoftConsulting\\IMS\\IMS.WebApp\\Components\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "IMS.WebApp\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-08T14:05:23.994Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\File Simone\\Sviluppo\\GsoftConsulting\\IMS\\IMS.WebApp\\Components\\Layout\\MainLayout.razor",
-              "RelativeDocumentMoniker": "IMS.WebApp\\Components\\Layout\\MainLayout.razor",
-              "ToolTip": "C:\\File Simone\\Sviluppo\\GsoftConsulting\\IMS\\IMS.WebApp\\Components\\Layout\\MainLayout.razor",
-              "RelativeToolTip": "IMS.WebApp\\Components\\Layout\\MainLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-08T14:03:04.232Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "InventoryList.razor",
-              "DocumentMoniker": "C:\\File Simone\\Sviluppo\\GsoftConsulting\\IMS\\IMS.WebApp\\Components\\Pages\\Inventories\\InventoryList.razor",
+              "DocumentMoniker": "C:\\Sviluppo\\GsoftConsulting\\IMS\\IMS.WebApp\\Components\\Pages\\Inventories\\InventoryList.razor",
               "RelativeDocumentMoniker": "IMS.WebApp\\Components\\Pages\\Inventories\\InventoryList.razor",
-              "ToolTip": "C:\\File Simone\\Sviluppo\\GsoftConsulting\\IMS\\IMS.WebApp\\Components\\Pages\\Inventories\\InventoryList.razor",
+              "ToolTip": "C:\\Sviluppo\\GsoftConsulting\\IMS\\IMS.WebApp\\Components\\Pages\\Inventories\\InventoryList.razor",
               "RelativeToolTip": "IMS.WebApp\\Components\\Pages\\Inventories\\InventoryList.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-08T14:02:10.905Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IMS.WebApp",
-              "DocumentMoniker": "C:\\File Simone\\Sviluppo\\GsoftConsulting\\IMS\\IMS.WebApp\\IMS.WebApp.csproj",
-              "RelativeDocumentMoniker": "IMS.WebApp\\IMS.WebApp.csproj",
-              "ToolTip": "C:\\File Simone\\Sviluppo\\GsoftConsulting\\IMS\\IMS.WebApp\\IMS.WebApp.csproj",
-              "RelativeToolTip": "IMS.WebApp\\IMS.WebApp.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-08T13:16:56.163Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Imports.razor",
-              "DocumentMoniker": "C:\\File Simone\\Sviluppo\\GsoftConsulting\\IMS\\IMS.WebApp\\Components\\_Imports.razor",
-              "RelativeDocumentMoniker": "IMS.WebApp\\Components\\_Imports.razor",
-              "ToolTip": "C:\\File Simone\\Sviluppo\\GsoftConsulting\\IMS\\IMS.WebApp\\Components\\_Imports.razor",
-              "RelativeToolTip": "IMS.WebApp\\Components\\_Imports.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-08T13:19:28.908Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Home.razor",
-              "DocumentMoniker": "C:\\File Simone\\Sviluppo\\GsoftConsulting\\IMS\\IMS.WebApp\\Components\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "IMS.WebApp\\Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\File Simone\\Sviluppo\\GsoftConsulting\\IMS\\IMS.WebApp\\Components\\Pages\\Home.razor",
-              "RelativeToolTip": "IMS.WebApp\\Components\\Pages\\Home.razor",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-08T13:15:06.921Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "IViewInventoriesByUseCase.cs",
-              "DocumentMoniker": "C:\\File Simone\\Sviluppo\\GsoftConsulting\\IMS\\IMS.UseCases\\Inventories\\Interfaces\\IViewInventoriesByUseCase.cs",
-              "RelativeDocumentMoniker": "IMS.UseCases\\Inventories\\Interfaces\\IViewInventoriesByUseCase.cs",
-              "ToolTip": "C:\\File Simone\\Sviluppo\\GsoftConsulting\\IMS\\IMS.UseCases\\Inventories\\Interfaces\\IViewInventoriesByUseCase.cs",
-              "RelativeToolTip": "IMS.UseCases\\Inventories\\Interfaces\\IViewInventoriesByUseCase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAuAAAAAAAAAA==",
+              "Title": "ViewInventoriesByUseCase.cs",
+              "DocumentMoniker": "C:\\Sviluppo\\GsoftConsulting\\IMS\\IMS.UseCases\\Inventories\\ViewInventoriesByUseCase.cs",
+              "RelativeDocumentMoniker": "IMS.UseCases\\Inventories\\ViewInventoriesByUseCase.cs",
+              "ToolTip": "C:\\Sviluppo\\GsoftConsulting\\IMS\\IMS.UseCases\\Inventories\\ViewInventoriesByUseCase.cs",
+              "RelativeToolTip": "IMS.UseCases\\Inventories\\ViewInventoriesByUseCase.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBgAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T13:13:17.064Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T16:17:14.52Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\File Simone\\Sviluppo\\GsoftConsulting\\IMS\\IMS.WebApp\\Program.cs",
-              "RelativeDocumentMoniker": "IMS.WebApp\\Program.cs",
-              "ToolTip": "C:\\File Simone\\Sviluppo\\GsoftConsulting\\IMS\\IMS.WebApp\\Program.cs",
-              "RelativeToolTip": "IMS.WebApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T16:52:11.078Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "InventoryRepository.cs",
-              "DocumentMoniker": "C:\\File Simone\\Sviluppo\\GsoftConsulting\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\InventoryRepository.cs",
-              "RelativeDocumentMoniker": "IMS.Plugins\\IMS.Plugins.InMemory\\InventoryRepository.cs",
-              "ToolTip": "C:\\File Simone\\Sviluppo\\GsoftConsulting\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\InventoryRepository.cs",
-              "RelativeToolTip": "IMS.Plugins\\IMS.Plugins.InMemory\\InventoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T16:40:37.793Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IInventoryRepository.cs",
-              "DocumentMoniker": "C:\\File Simone\\Sviluppo\\GsoftConsulting\\IMS\\IMS.UseCases\\PluginInterfaces\\IInventoryRepository.cs",
-              "RelativeDocumentMoniker": "IMS.UseCases\\PluginInterfaces\\IInventoryRepository.cs",
-              "ToolTip": "C:\\File Simone\\Sviluppo\\GsoftConsulting\\IMS\\IMS.UseCases\\PluginInterfaces\\IInventoryRepository.cs",
-              "RelativeToolTip": "IMS.UseCases\\PluginInterfaces\\IInventoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T16:30:44.773Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IMS.UseCases.csproj",
-              "DocumentMoniker": "C:\\File Simone\\Sviluppo\\GsoftConsulting\\IMS\\IMS.UseCases\\IMS.UseCases.csproj",
-              "RelativeDocumentMoniker": "IMS.UseCases\\IMS.UseCases.csproj",
-              "ToolTip": "C:\\File Simone\\Sviluppo\\GsoftConsulting\\IMS\\IMS.UseCases\\IMS.UseCases.csproj",
-              "RelativeToolTip": "IMS.UseCases\\IMS.UseCases.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-06T16:26:29.288Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
               "Title": "Inventory.cs",
-              "DocumentMoniker": "C:\\File Simone\\Sviluppo\\GsoftConsulting\\IMS\\IMS.CoreBusiness\\Inventory.cs",
+              "DocumentMoniker": "C:\\Sviluppo\\GsoftConsulting\\IMS\\IMS.CoreBusiness\\Inventory.cs",
               "RelativeDocumentMoniker": "IMS.CoreBusiness\\Inventory.cs",
-              "ToolTip": "C:\\File Simone\\Sviluppo\\GsoftConsulting\\IMS\\IMS.CoreBusiness\\Inventory.cs",
+              "ToolTip": "C:\\Sviluppo\\GsoftConsulting\\IMS\\IMS.CoreBusiness\\Inventory.cs",
               "RelativeToolTip": "IMS.CoreBusiness\\Inventory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -254,74 +226,88 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ViewInventoriesByUseCase.cs",
-              "DocumentMoniker": "C:\\File Simone\\Sviluppo\\GsoftConsulting\\IMS\\IMS.UseCases\\Inventories\\ViewInventoriesByUseCase.cs",
-              "RelativeDocumentMoniker": "IMS.UseCases\\Inventories\\ViewInventoriesByUseCase.cs",
-              "ToolTip": "C:\\File Simone\\Sviluppo\\GsoftConsulting\\IMS\\IMS.UseCases\\Inventories\\ViewInventoriesByUseCase.cs",
-              "RelativeToolTip": "IMS.UseCases\\Inventories\\ViewInventoriesByUseCase.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBgAAAA2AAAAAAAAAA==",
+              "DocumentIndex": 16,
+              "Title": "IViewInventoriesByUseCase.cs",
+              "DocumentMoniker": "C:\\Sviluppo\\GsoftConsulting\\IMS\\IMS.UseCases\\Inventories\\Interfaces\\IViewInventoriesByUseCase.cs",
+              "RelativeDocumentMoniker": "IMS.UseCases\\Inventories\\Interfaces\\IViewInventoriesByUseCase.cs",
+              "ToolTip": "C:\\Sviluppo\\GsoftConsulting\\IMS\\IMS.UseCases\\Inventories\\Interfaces\\IViewInventoriesByUseCase.cs",
+              "RelativeToolTip": "IMS.UseCases\\Inventories\\Interfaces\\IViewInventoriesByUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T16:17:14.52Z",
+              "WhenOpened": "2025-05-08T13:13:17.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Sviluppo\\GsoftConsulting\\IMS\\IMS.WebApp\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "IMS.WebApp\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Sviluppo\\GsoftConsulting\\IMS\\IMS.WebApp\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "IMS.WebApp\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T13:15:06.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Sviluppo\\GsoftConsulting\\IMS\\IMS.WebApp\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "IMS.WebApp\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Sviluppo\\GsoftConsulting\\IMS\\IMS.WebApp\\Components\\_Imports.razor",
+              "RelativeToolTip": "IMS.WebApp\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T13:19:28.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IInventoryRepository.cs",
+              "DocumentMoniker": "C:\\Sviluppo\\GsoftConsulting\\IMS\\IMS.UseCases\\PluginInterfaces\\IInventoryRepository.cs",
+              "RelativeDocumentMoniker": "IMS.UseCases\\PluginInterfaces\\IInventoryRepository.cs",
+              "ToolTip": "C:\\Sviluppo\\GsoftConsulting\\IMS\\IMS.UseCases\\PluginInterfaces\\IInventoryRepository.cs",
+              "RelativeToolTip": "IMS.UseCases\\PluginInterfaces\\IInventoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T16:30:44.773Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 516,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{90243340-bd7a-11d0-93ef-00a0c90f2734}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IMS.WebApp.csproj",
+              "DocumentMoniker": "C:\\Sviluppo\\GsoftConsulting\\IMS\\IMS.WebApp\\IMS.WebApp.csproj",
+              "RelativeDocumentMoniker": "IMS.WebApp\\IMS.WebApp.csproj",
+              "ToolTip": "C:\\Sviluppo\\GsoftConsulting\\IMS\\IMS.WebApp\\IMS.WebApp.csproj",
+              "RelativeToolTip": "IMS.WebApp\\IMS.WebApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-08T13:16:56.163Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 1366,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0504ff91-9d61-11d0-a794-00a0c9110051}"
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Sviluppo\\GsoftConsulting\\IMS\\IMS.WebApp\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "IMS.WebApp\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Sviluppo\\GsoftConsulting\\IMS\\IMS.WebApp\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "IMS.WebApp\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T14:03:04.232Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{ecb7191a-597b-41f5-9843-03a4cf275dde}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{4a18f9d0-b838-11d0-93eb-00a0c90f2734}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{605322a2-17ae-43f4-b60f-766556e46c87}"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 516,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Sviluppo\\GsoftConsulting\\IMS\\IMS.WebApp\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "IMS.WebApp\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Sviluppo\\GsoftConsulting\\IMS\\IMS.WebApp\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "IMS.WebApp\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T14:05:23.994Z"
             }
           ]
         }
