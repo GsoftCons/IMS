@@ -1,0 +1,9 @@
+.vs/
+IMS.CoreBusiness/obj
+IMS.CoreBusiness/bin
+IMS.Plugins/IMS.Plugins.InMemory/bin
+IMS.Plugins/IMS.Plugins.InMemory/obj
+IMS.UseCases/obj
+IMS.UseCases/bin
+IMS.WebApp/obj
+IMS.WebApp/bin
