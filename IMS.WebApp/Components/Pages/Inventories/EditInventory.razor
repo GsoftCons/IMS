@@ -1,0 +1,10 @@
+﻿@page "/editinventory/{invId:long}"
+
+<h3>EditInventory</h3>
+<br/>
+@InvId
+
+@code {
+    [Parameter]
+    public long InvId { get; set; }
+}
