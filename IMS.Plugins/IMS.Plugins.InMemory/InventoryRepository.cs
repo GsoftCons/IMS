@@ -32,6 +32,17 @@ namespace IMS.Plugins.InMemory
             return Task.CompletedTask;
         }
 
+        public Task DeleteInventoryByIdAsync(int inventoryId)
+        {
+            var inventory = _inventories.FirstOrDefault(x => x.InventoryId == inventoryId);
+            if (inventory != null)
+            {
+                _inventories.Remove(inventory);
+            }
+
+            return Task.CompletedTask;
+        }
+
         public async Task<IEnumerable<Inventory>> GetInventoriesByNameAsync(string name)
         {
             if (string.IsNullOrWhiteSpace(name))
@@ -41,7 +52,7 @@ namespace IMS.Plugins.InMemory
                 .ToList();
         }
 
-        public async Task<Inventory> GetInventoryByIdAsync(int inventoryId)
+        public async Task<Inventory> GetInventoryByIdAsync(long inventoryId)
         {
            return await Task.FromResult(_inventories.First(x => x.InventoryId == inventoryId));
         }
