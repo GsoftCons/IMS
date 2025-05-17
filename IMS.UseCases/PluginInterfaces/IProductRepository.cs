@@ -12,7 +12,7 @@ namespace IMS.UseCases.PluginInterfaces
         Task AddProductAsync(Product Product);
         Task DeleteProductByIdAsync(int ProductId);
         Task<IEnumerable<Product>> GetProductsByNameAsync(string name);
-        Task<Product> GetProductByIdAsync(long ProductId);
+        Task<Product?> GetProductByIdAsync(long ProductId);
         Task UpdateProductAsync(Product Product);
     }
 }

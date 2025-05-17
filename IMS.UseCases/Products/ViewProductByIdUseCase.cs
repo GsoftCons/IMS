@@ -19,7 +19,7 @@ namespace IMS.UseCases.Inventories
             this.productRepository = productRepository;
         }
 
-        public async Task<Product> ExecuteAsync(long productId)
+        public async Task<Product?> ExecuteAsync(long productId)
         {
             return await this.productRepository.GetProductByIdAsync(productId);
         }

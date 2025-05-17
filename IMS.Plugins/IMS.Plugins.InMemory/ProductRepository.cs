@@ -52,25 +52,63 @@ namespace IMS.Plugins.InMemory
                 .ToList();
         }
 
-        public async Task<Product> GetProductByIdAsync(long ProductId)
+        public async Task<Product?> GetProductByIdAsync(long productId)
         {
-           return await Task.FromResult(_products.First(x => x.ProductId == ProductId));
-        }
+           var prod = _products.FirstOrDefault(x => x.ProductId == productId);
+            var newProd = new Product();
 
-        public Task UpdateProductAsync(Product Product)
-        {
-            if(_products.Any(x=> x.ProductId != Product.ProductId && x.ProductName.Equals(Product.ProductName, StringComparison.OrdinalIgnoreCase)))
-                return Task.CompletedTask;
-
-            var invToUpdate = _products.FirstOrDefault(x => x.ProductId == Product.ProductId);
-            if(invToUpdate is not null)
+            if (prod != null)
             {
-                invToUpdate.ProductName = Product.ProductName;
-                invToUpdate.Quantity = Product.Quantity;
-                invToUpdate.Price = Product.Price;
+                newProd.ProductId = prod.ProductId;
+                newProd.ProductName = prod.ProductName;
+                newProd.Quantity = prod.Quantity;
+                newProd.Price = prod.Price;
+                newProd.ProductInventories = new List<ProductInventory>();
+
+                if(prod.ProductInventories != null && prod.ProductInventories.Count > 0)
+                {
+                    foreach (var prodInv in prod.ProductInventories)
+                    {
+                        var newProdInv = new ProductInventory
+                        {
+                            InventoryId = prodInv.InventoryId,
+                            ProductId = prodInv.ProductId,
+                            Product = prod,
+                            Inventory = prodInv.Inventory,
+                            InventoryQuantity = prodInv.InventoryQuantity,
+                        };
+
+                        if(prodInv.Inventory != null)
+                        {
+                            newProdInv.Inventory.InventoryId = prodInv.Inventory.InventoryId;
+                            newProdInv.Inventory.InventoryName = prodInv.Inventory.InventoryName;
+                            newProdInv.Inventory.Quantity = prodInv.Inventory.Quantity;
+                            newProdInv.Inventory.Price = prodInv.Inventory.Price;
+                        }
+
+                        newProd.ProductInventories.Add(newProdInv);
+                    }
+                }
             }
 
-            return Task.CompletedTask;
+            return await Task.FromResult(newProd);
+        }
+
+        public async Task UpdateProductAsync(Product product)
+        {
+            if(_products.Any(x=> x.ProductId != product.ProductId && x.ProductName.ToLower() == product.ProductName.ToLower()))
+                return;
+
+            var prod =  _products.FirstOrDefault(x => x.ProductId == product.ProductId);
+            
+            if(prod != null)
+            {
+                prod.ProductName = product.ProductName;
+                prod.Quantity = product.Quantity;
+                prod.Price = product.Price;
+                prod.ProductInventories = product.ProductInventories;
+            }
+
         }
     }
 }

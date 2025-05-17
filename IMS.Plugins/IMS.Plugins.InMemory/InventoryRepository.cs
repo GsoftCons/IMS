@@ -1,5 +1,6 @@
 ﻿using IMS.CoreBusiness;
 using IMS.UseCases.PluginInterfaces;
+using System.Linq.Expressions;
 
 namespace IMS.Plugins.InMemory
 {
@@ -54,7 +55,16 @@ namespace IMS.Plugins.InMemory
 
         public async Task<Inventory> GetInventoryByIdAsync(long inventoryId)
         {
-           return await Task.FromResult(_inventories.First(x => x.InventoryId == inventoryId));
+           var inv = _inventories.First(x => x.InventoryId == inventoryId);
+           var newInv = new Inventory
+           {
+               InventoryId = inv.InventoryId,
+               InventoryName = inv.InventoryName,
+               Quantity = inv.Quantity,
+               Price = inv.Price
+           };
+
+            return await Task.FromResult(newInv);
         }
 
         public Task UpdateInventoryAsync(Inventory inventory)
